@@ -1,2 +1,5 @@
 # KYC
-Marswap repository for performed KYC certifications
+The Marswap Platform offers reliable KYC verification services to cryptocurrency projects aiming to build trust among creators. Our platform assists in performing thorough KYC checks, which can also serve real business purposes by enhancing growth opportunities in global markets. 
+                                                                                                                                                                                                                                                                         Our KYC process is designed to be simple and efficient, catering to the needs of project owners. With accurate personal information, the entire process typically takes between 5 to 15 minutes, granting project owners a verification certificate promptly.
+
+To promote transparency, all projects and companies that successfully pass the KYC verification process are listed in our public repository. The verification information of these projects is securely stored in our vault for 6 months after certification, providing necessary documentation in the event of any criminal activity.
